@@ -1,0 +1,23 @@
+{
+  "name": "social-network-api-nosql",
+  "version": "1.0.0",
+  "description": "an API for a social network web application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Ibrahim Allison",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^7.5.1",
+    "nodemon": "^3.0.1",
+    "sequelize": "^6.33.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
