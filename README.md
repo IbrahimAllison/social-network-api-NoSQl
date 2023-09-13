@@ -23,8 +23,17 @@ I have been wondering how a social network like FaceBook, Tiktok, Twitter, etc a
 
 ## Link To Walkthru Video
 
+https://drive.google.com/file/d/1MdDopVB21SWAv4UkLarKJmqxE0XIPEdE/view
+
+
 **Walkthrough Video:** 
 **screenshot of the application:** 
+![image](https://github.com/IbrahimAllison/social-network-api-NoSQl/assets/116689797/8506a696-0539-4e49-b605-ef6ecd787f47)
+![image](https://github.com/IbrahimAllison/social-network-api-NoSQl/assets/116689797/c2115b41-bde1-49a2-895a-277ae67aa424)
+
+
+
+
 
 ## Installation and Usage
 
